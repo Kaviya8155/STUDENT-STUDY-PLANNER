@@ -1,0 +1,35 @@
+# Student Study Planner — Requirements
+
+## Functional Requirements
+
+1. The system shall display a student dashboard.
+2. The system shall allow students to add study tasks.
+3. Each task may include a subject, date, and time.
+4. Students shall be able to edit and delete tasks.
+5. Students shall be able to mark tasks as completed.
+6. The system shall display completed and pending task counts.
+7. The system shall provide a daily or weekly schedule.
+8. The system shall save tasks using browser Local Storage.
+9. The system shall provide a profile screen.
+
+## Non-Functional Requirements
+
+* Usability: The interface should be easy to understand.
+* Performance: Screens and task updates should respond quickly.
+* Reliability: Saved tasks should remain available after a page refresh.
+* Compatibility: The application should work in supported modern browsers.
+* Maintainability: Code should be organized into separate files.
+* Responsiveness: The layout should adapt to mobile and desktop screens.
+
+## Software Requirements
+
+* Visual Studio Code
+* Modern web browser
+* Git and GitHub
+* HTML, CSS, and JavaScript
+
+## Hardware Requirements
+
+* Computer or laptop
+* Minimum 4 GB RAM recommended
+* Internet connection for GitHub access
